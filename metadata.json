@@ -1,0 +1,6 @@
+{
+  "name": "Android HTML/Markdown Reader",
+  "description": "Android-native style read-only viewer for Markdown and interactive HTML files with folder navigation, move, rename, delete, and sandboxed execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
